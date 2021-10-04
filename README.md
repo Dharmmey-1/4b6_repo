@@ -1,4 +1,4 @@
-# 4b6_intro
+# 4b6
 This is meant for an intro into github.
 
 We are exploring github
